@@ -1,4 +1,4 @@
-package Motor;
+package Motores;
 
 public class Mecanicos extends Motor {
     private int tamañoCmCubicos;

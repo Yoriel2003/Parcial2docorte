@@ -1,4 +1,4 @@
-package Motor;
+package Motores;
 
 public class Hibridos extends Motor {
 

@@ -1,6 +1,7 @@
-package datos;
+package Vista;
 
 import Motores.*;
+
 
 public class IAlquilables implements IReservable {
     private Motor[] lista;
@@ -47,10 +48,12 @@ public class IAlquilables implements IReservable {
 
     @Override
     public boolean alquilarMotor(Motor m) {
+        return false;
       }
 
     @Override
     public int getTotalMotorReservado() {
+        return 0;
        }
 
     @Override
